@@ -1,0 +1,9 @@
+D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\bin\Log4net_ErrorLogging.dll.config
+D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\bin\Log4net_ErrorLogging.dll
+D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\bin\Log4net_ErrorLogging.pdb
+D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\obj\Debug\Log4net_ErrorLogging.csprojResolveAssemblyReference.cache
+D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\obj\Debug\Log4net_ErrorLogging.csproj.CoreCompileInputs.cache
+D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\obj\Debug\Log4net_ErrorLogging.dll
+D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\obj\Debug\Log4net_ErrorLogging.pdb
