@@ -7,3 +7,4 @@ D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\o
 D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\obj\Debug\Log4net_ErrorLogging.csproj.CoreCompileInputs.cache
 D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\obj\Debug\Log4net_ErrorLogging.dll
 D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\obj\Debug\Log4net_ErrorLogging.pdb
+D:\Git Projects\Log4net_ErrorLogging\Log4net_ErrorLogging\Log4net_ErrorLogging\bin\log4net.dll
